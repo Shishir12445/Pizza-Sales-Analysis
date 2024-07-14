@@ -1,0 +1,11 @@
+pizza_name,pizza_category,TotalQuantity,TotalSales,pizza_size,ORDER_DATE
+"The Four Cheese Pizza",Veggie,12,215,L,15-07-2015
+"The Spicy Italian Pizza",Supreme,10,208,L,24-04-2015
+"The Thai Chicken Pizza",Chicken,9,187,L,04-04-2015
+"The Barbecue Chicken Pizza",Chicken,9,187,L,28-01-2015
+"The Barbecue Chicken Pizza",Chicken,9,187,L,13-02-2015
+"The Five Cheese Pizza",Veggie,10,185,L,04-07-2015
+"The Five Cheese Pizza",Veggie,10,185,L,20-01-2015
+"The Four Cheese Pizza",Veggie,10,180,L,03-02-2015
+"The Big Meat Pizza",Classic,15,180,S,13-03-2015
+"The Four Cheese Pizza",Veggie,10,179,L,11-02-2015
